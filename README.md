@@ -1,1 +1,1 @@
-# 365daysofquantumcomputing
+# 365 Days Of Quantum Computing
