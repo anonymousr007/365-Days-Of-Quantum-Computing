@@ -1,5 +1,7 @@
 # 365 Days Of Quantum Computing
 
+* [Quantum Algorithms](https://www.linkedin.com/posts/holger-marschall-62175683_quantum-algotithm-implementations-for-beginners-activity-6882036547147878401-TFiO)
+
 * Introduction to Quantum Mechanics by Griffiths.
 
 | Days | Name of the Topic           | Linkedin Link |
