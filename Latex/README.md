@@ -7,3 +7,11 @@
 ```
 
 ![Born_statistical](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/Born_statistical.png)
+
+## Normalization
+
+```latex
+\int_{-\infty}^{+\infty} \left | \psi(x,t)  \right | ^{2} dx = 1
+```
+
+![Normalization](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/Normalization.png)
