@@ -15,3 +15,11 @@
 ```
 
 ![Normalization](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/Normalization.png)
+
+## Momentum 
+
+```latex
+\left \langle x \right \rangle = \int_{-\infty}^{+\infty} x\left | \psi(x,t) \right | ^{2} dx
+```
+
+![Momentum](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/momentum.png)
