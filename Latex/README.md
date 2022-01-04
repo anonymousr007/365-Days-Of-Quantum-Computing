@@ -22,4 +22,10 @@
 \left \langle x \right \rangle = \int_{-\infty}^{+\infty} x\left | \psi(x,t) \right | ^{2} dx
 ```
 
-![Momentum](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/momentum.png)
+![Distance](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/momentum.png)
+
+```latex
+\left \langle p \right \rangle = m\frac{\mathrm{d} \left \langle x \right \rangle }{\mathrm{d} t} = - i \hbar \int \left ( \Psi* \frac{\partial \Psi}{\partial x} \right ) dx
+```
+
+![Momentum](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/Momentum_operator.png)
