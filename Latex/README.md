@@ -29,3 +29,11 @@
 ```
 
 ![Momentum](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/Momentum_operator.png)
+
+## Stationary States
+
+```latex
+\left | \Psi \left ( t \right ) \right > = e ^{-iE_\psi t/\hbar} \left | \Psi \left ( 0\right ) \right >
+```
+
+![Stationary States](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/stationary_states.png)
