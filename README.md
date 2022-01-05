@@ -6,6 +6,9 @@
 * [Quantum Physics 130](https://quantummechanics.ucsd.edu/ph130a/130_notes/130_notes.html)
 * [Physport Quilts - Quantum Mechanics](https://www.physport.org/curricula/Quilts/)
 * Introduction to Quantum Mechanics by Griffiths.
+* https://bernalde.github.io/QuIP/
+* https://courses.ece.cmu.edu/18819F
+* https://arxiv.org/pdf/2012.11382.pdf [Quantum Integer Programming (QuIP) 47-779: Lecture Notes  David E. Bernal, Sridhar Tayur, Davide Venturelli Fall 2020]
 
 | Days | Name of the Topic           | Linkedin Link |
 | ---- | --------------------------- | ------------- |
