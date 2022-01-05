@@ -6,4 +6,9 @@
 * https://www.xanadu.ai/research
 * https://arxiv.org/abs/2201.00790
 * https://arxiv.org/abs/2201.00817
+* https://mpatacchiola.github.io/blog/2017/03/14/dissecting-reinforcement-learning-5.html
+* http://www.it-weise.de/projects/book.pdf
+* http://www.shahed.ac.ir/stabaii/Files/CompIntelligenceBook.pdf
+* https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf
+* http://cobweb.cs.uga.edu/~potter/CompIntell/ga_tutorial.pdf
 * 
