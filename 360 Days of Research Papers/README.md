@@ -11,4 +11,4 @@
 * http://www.shahed.ac.ir/stabaii/Files/CompIntelligenceBook.pdf
 * https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf
 * http://cobweb.cs.uga.edu/~potter/CompIntell/ga_tutorial.pdf
-* 
+* [The Power of Quantum Neural Networks](https://arxiv.org/abs/2011.00027)
