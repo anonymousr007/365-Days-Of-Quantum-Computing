@@ -37,3 +37,11 @@
 ```
 
 ![Stationary States](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/stationary_states.png)
+
+## Hilbert Space 
+
+```latex
+\int \left | \Psi \right | ^{2} dx = 1
+```
+
+![Hilbert Space](https://github.com/anonymousr007/365daysofquantumcomputing/blob/main/Latex/CodeCogsEqn.png)
