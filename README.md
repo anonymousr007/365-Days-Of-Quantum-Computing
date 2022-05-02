@@ -10,6 +10,7 @@
 * https://courses.ece.cmu.edu/18819F
 * https://arxiv.org/pdf/2012.11382.pdf [Quantum Integer Programming (QuIP) 47-779: Lecture Notes  David E. Bernal, Sridhar Tayur, Davide Venturelli Fall 2020]
 
+
 | Days | Name of the Topic           | Linkedin Link |
 | ---- | --------------------------- | ------------- |
 | 1.   | 𝐒𝐜𝐡𝐫ö𝐝𝐢𝐧𝐠𝐞𝐫'𝐬 𝐖𝐚𝐯𝐞 𝐄𝐪𝐮𝐚𝐭𝐢𝐨𝐧 | [001/365](https://www.linkedin.com/posts/anonymousr007_365daysofquantumcomputing-quantum-quantumcomputing-activity-6883088137002856448-Wnuc) |
